@@ -1,2 +1,2 @@
 # Beer_EDA
-Just for fun - beer insights
+Just for fun - all insights in the Jupyter Kernel.
